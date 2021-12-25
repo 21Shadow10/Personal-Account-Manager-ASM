@@ -1,4 +1,4 @@
-# Bank Management System (semester project)
+# Personal Account Manager
 
 Simple yet complex management system made using emu8086
 
